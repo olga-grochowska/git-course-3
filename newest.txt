@@ -1,1 +1,3 @@
 Content from master branch
+First line in newest.txt
+Second line in newest.txt
